@@ -1,13 +1,20 @@
+# cccolor - A Minimalist Color Picker Extension 🎨
 
-## Color-Zilla
+cccolor is a sleek and lightweight browser extension designed to simplify color selection for web designers, developers, and digital creators. With precision color picking, HEX/RGB display, and a built-in color history, cccolor is your go-to tool for a seamless workflow.
 
-Color-zilla is a Google plugin that can detect color codes in online pages and save them to the web browser's local storage.
+---
 
-- Download or clone the repository from the github URL below : https://github.com/Deshan555/Color-Picker.git
-- If you downloaded all codes as zip files, unzip the basic codes.
-- open Google Chrome and go to "more tools -> extensions".
-- Open Google Chrome in developer mode and pick the load unpacked option.
-- After that, you can pick the folder you previously unpacked or cloned.
-- If you followed all of the procedures successfully, the extension will automatically launch in Chrome.
+## Features
+- **Eyedropper Tool**: Select any color from your screen with pixel-perfect accuracy.
+- **Color Codes**: Instantly get HEX and RGB values for the selected color.
+- **Copy to Clipboard**: Quickly copy the color code for use in your designs or code.
+- **Color History**: Keep track of your recent colors for easy reference.
+- **Minimal and Lightweight**: A simple interface that prioritizes speed and usability.
 
-![screen-shot](https://github.com/Deshan555/Color-Picker/blob/master/app.png)
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/cccolor.git
