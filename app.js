@@ -8,6 +8,12 @@ document.getElementById('pickColor').addEventListener('click', async () => {
     }
 });
 
+
+
+
+
+
+
 document.getElementById('copyColor').addEventListener('click', () => {
     const hexValue = document.getElementById('hexValue').innerText;
     navigator.clipboard.writeText(hexValue).then(() => {
